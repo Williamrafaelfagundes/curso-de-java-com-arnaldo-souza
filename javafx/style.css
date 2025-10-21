@@ -1,0 +1,28 @@
+/* style.css */
+.etiqueta{
+	-fx-font-family: 'Arial';
+	-fx-font-size: 14px;
+	-fx-font-style: italic;
+	-fx-font-wight:bold;
+
+	-fx-background-color: blue;
+	-fx-text-fill:pink;
+
+}
+
+.botao{
+	
+	-fx-font-family:'Verdana';
+	-fx-font-sizse: 12px;
+	-fx-background-color:rgba(255,0,0,0.5);
+	-fx-text-fill:white;
+
+
+}
+.campoTexto{
+	-fx-font-family: 'Courier New';
+	-fx-font-size: 16px;
+
+	-fx-background-color:green;
+	-fx-text-fill:red;
+}
